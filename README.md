@@ -15,6 +15,6 @@ Solutions for the C Challenges on HackerRank
 
 | Number | Challenges                                                                 |                             Solutions                             |
 | :----: | -------------------------------------------------------------------------- | :---------------------------------------------------------------: |
-|   1    | [Let's Echo!](https://www.hackerrank.com/challenges/hello-world-c/problem) | [Solution.sh](Introduction/"Hello World!"%20in%20C/hello-world.c) |
+|   1    | [Let's Echo!](https://www.hackerrank.com/challenges/hello-world-c/problem) | [Solution.sh](Introduction/Hello World!%20in%20C/hello-world.c) |
 
 <br>![cat](https://github-production-user-asset-6210df.s3.amazonaws.com/62666332/253642655-0438a9e1-d47d-4570-873c-5ddd59f46e9e.svg)</br>
