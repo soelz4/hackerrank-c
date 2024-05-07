@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
   char s[222];
@@ -6,4 +7,6 @@ int main() {
 
   printf("Hello, World!\n");
   printf("%s\n", s);
+
+  return EXIT_SUCCESS;
 }

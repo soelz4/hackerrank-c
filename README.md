@@ -13,8 +13,12 @@ Solutions for the C Challenges on HackerRank
 
 ## Introduction
 
-| Number | Challenges                                                                         |                              Solutions                              |
-| :----: | ---------------------------------------------------------------------------------- | :-----------------------------------------------------------------: |
-|   1    | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [Solution.sh](Introduction/"Hello%20World!"%20in%20C/hello_world.c) |
+| Number | Challenges                                                                                       |                                   Solutions                                    |
+| :----: | ------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------: |
+|   1    | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)               |          [Solution.sh](Introduction/"Hello%20World!"%20in%20C/main.c)          |
+|   2    | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) |         [Solution.sh](Introduction/Playing%20With%20Characters/main.c)         |
+|   3    | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [Solution.sh](Introduction/Sum%20and%20Difference%20of%20Two%20Numbers/main.c) |
+|   4    | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)                   |             [Solution.sh](Introduction/Functions%20in%20C/main.c)              |
+|   5    | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)                      |              [Solution.sh](Introduction/Pointers%20in%20C/main.c)              |
 
 <br>![cat](https://github-production-user-asset-6210df.s3.amazonaws.com/62666332/253642655-0438a9e1-d47d-4570-873c-5ddd59f46e9e.svg)</br>
