@@ -5,7 +5,9 @@ int main() {
   int a, b, n;
   char *nums[] = {"one", "two",   "three", "four", "five",
                   "six", "seven", "eight", "nine"};
+
   scanf("%d\n%d", &a, &b);
+
   for (n = a; n <= b; n++) {
     if (n < 10) {
       printf("%s\n", nums[n - 1]);
@@ -17,5 +19,6 @@ int main() {
       }
     }
   }
+
   return EXIT_SUCCESS;
 }

@@ -23,9 +23,12 @@ Solutions for the C Challenges on HackerRank
 
 ## Conditional Statements in C
 
-| Number | Challenges                                                                                               |                                     Solutions                                      |
-| :----: | -------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------: |
-|   1    | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) | [Solution.sh](Conditionals%20and%20Loops/Conditional%20Statements%20in%20C/main.c) |
-|   2    | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)                             |        [Solution.sh](Conditionals%20and%20Loops/For%20Loop%20in%20C/main.c)        |
+| Number | Challenges                                                                                                                 |                                              Solutions                                              |
+| :----: | -------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: |
+|   1    | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)                   |         [Solution.sh](Conditionals%20and%20Loops/Conditional%20Statements%20in%20C/main.c)          |
+|   2    | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)                                               |                [Solution.sh](Conditionals%20and%20Loops/For%20Loop%20in%20C/main.c)                 |
+|   3    | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | [Solution.sh](Conditionals%20and%20Loops/Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number/main.c) |
+|   4    | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem)                                  |                [Solution.sh](Conditionals%20and%20Loops/Bitwise%20Operators/main.c)                 |
+|   5    | [Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)                           |         [Solution.sh](Conditionals%20and%20Loops/Printing%20Pattern%20Using%20Loops/main.c)         |
 
 <br>![cat](https://github-production-user-asset-6210df.s3.amazonaws.com/62666332/253642655-0438a9e1-d47d-4570-873c-5ddd59f46e9e.svg)</br>
