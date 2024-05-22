@@ -21,4 +21,11 @@ Solutions for the C Challenges on HackerRank
 |   4    | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)                   |             [Solution.sh](Introduction/Functions%20in%20C/main.c)              |
 |   5    | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)                      |              [Solution.sh](Introduction/Pointers%20in%20C/main.c)              |
 
+## Conditional Statements in C
+
+| Number | Challenges                                                                                               |                                     Solutions                                      |
+| :----: | -------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------: |
+|   1    | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) | [Solution.sh](Conditionals%20and%20Loops/Conditional%20Statements%20in%20C/main.c) |
+|   2    | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)                             |        [Solution.sh](Conditionals%20and%20Loops/For%20Loop%20in%20C/main.c)        |
+
 <br>![cat](https://github-production-user-asset-6210df.s3.amazonaws.com/62666332/253642655-0438a9e1-d47d-4570-873c-5ddd59f46e9e.svg)</br>
