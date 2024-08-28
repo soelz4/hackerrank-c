@@ -31,4 +31,16 @@ Solutions for the C Challenges on HackerRank
 |   4    | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem)                                  |                [Solution.sh](Conditionals%20and%20Loops/Bitwise%20Operators/main.c)                 |
 |   5    | [Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)                           |         [Solution.sh](Conditionals%20and%20Loops/Printing%20Pattern%20Using%20Loops/main.c)         |
 
-<br>![cat](https://github-production-user-asset-6210df.s3.amazonaws.com/62666332/253642655-0438a9e1-d47d-4570-873c-5ddd59f46e9e.svg)</br>
+## Arrays and Strings
+
+| Number | Challenges                                                                     |                             Solutions                             |
+| :----: | ------------------------------------------------------------------------------ | :---------------------------------------------------------------: |
+|   1    | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | [Solution.sh](Arrays%20and%20Strings/1D%20Arrays%20in%20C/main.c) |
+
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg" width="100%" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/dark/spaced.svg" width="100%" />
+  </picture>
+</p>
