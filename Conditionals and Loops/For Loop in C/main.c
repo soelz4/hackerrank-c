@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+const char *nums[] = {"one", "two",   "three", "four", "five",
+                      "six", "seven", "eight", "nine"};
+
 int main() {
   int a, b, n;
-  char *nums[] = {"one", "two",   "three", "four", "five",
-                  "six", "seven", "eight", "nine"};
 
   scanf("%d\n%d", &a, &b);
 
