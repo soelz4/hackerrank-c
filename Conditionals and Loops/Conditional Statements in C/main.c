@@ -4,10 +4,14 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Function Declaration
 char *readline();
 
-char *strings[] = {"one", "two",   "three", "four", "five",
-                   "six", "seven", "eight", "nine"};
+// Visit https://stackoverflow.com/questions/1088622/how-do-i-create-an-array-of-strings-in-c
+const char *strings[9] = {"one", "two",   "three", "four", "five",
+                          "six", "seven", "eight", "nine"};
+// const char strings[9][5] = {"one", "two",   "three", "four", "five",
+// "six", "seven", "eight", "nine"};
 
 int main() {
   char *n_endptr;
@@ -27,6 +31,7 @@ int main() {
   return EXIT_SUCCESS;
 }
 
+// Function Definition
 char *readline() {
   size_t alloc_length = 1024;
   size_t data_length = 0;
